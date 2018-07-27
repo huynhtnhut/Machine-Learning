@@ -1,0 +1,3 @@
+z^l=w^la^(l-1)+b^l is the weighted input to neurons in layer l.
+Backpropagation is the changing the weights and biases in network changes the cost function.
+By adding a small amout which is delta(z^l) we can improve the cost
