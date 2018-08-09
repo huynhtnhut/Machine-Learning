@@ -1,0 +1,3 @@
+x - x0, then the slope of the tangent line is the avarage of change.
+x0 is closer to x0, then that tangent line is the instantaneous rate of change
+Notice that the slope of the secant line is calculated just like the average rate of change over the interval.
